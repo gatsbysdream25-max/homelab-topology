@@ -1,5 +1,8 @@
 # Homelab Setup — SwarmSentinel Distributed Security Stack
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 A two-node homelab running a distributed security monitoring platform, AI inference, self-hosted services, and a Flux network node — all behind a single router with port forwarding.
 
 ---
